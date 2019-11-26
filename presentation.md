@@ -1,9 +1,23 @@
 Design:
 Who is your audience? Do you know enough about them? Would they be appealed by your solution?
 
-What is your overall take-home message?
+our prime audience will be between 40 to 60.
 
-What are the findings and facts you want to present to them?
+The prevalence rate is indeed higher in middle age than in other age groups
+ through our data analysis .We hope to impress people with this interesting interaction.
+Physiological function reaches the peak of his life when a person is 20 ~ 25 years old . After a brief period of stability, the body's organ systems gradually decline in function from about age 30(by about 1 percent per year). Therefore,  the prevalence of hypertension is gradually higher than that of young people with the increase of age. 
+
+People often get bored with medical vocabulary and data, and hospitals don't promote knowledge in a way that is attractive or engaged.
+
+
+What is your overall take-home message?What are the findings and facts you want to present to them?
+
+Recent years have seen a decline in the number of people diagnosed with cancer and an increase in the number of people cured
+High morbidity and mortality is( )
+Middle aged people should gain more awareness of cancer because 40-60 is an age interval in high incidence of cancer.
+Cancer can be cured if it is found at the early stage.
+People need to check out regularly.
+
 
 what do they need to know (about the data or analysis) to understand your points?
 
