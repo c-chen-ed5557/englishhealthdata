@@ -40,3 +40,7 @@ We physicalised important data and messages we derived from our analysis while c
 How realizable is your solution? Does your team has the respective skills and tools available?
 
 Are you having clear responsibilities in the team? Do you all know what to do? can you work independently?
+
+## FEEDBACK WE GOT:
+
+Good motivation, and a sense of why the data analysis and presentation is relevant, along with thought about who would read it and why. Very good video documentation. The final project takes an interesting line between playful and serious. There's a tension between the interaction method and the target audience, but it may be that something quirky is actually a good way in - it would be good to see how people actually respond to this - both members of the public and the health services.
