@@ -16,6 +16,8 @@ According to the survey, physiological function reaches the peak of his life whe
 From our interviews, people often get bored with medical vocabularies and data, and some of them mentioned that hospitals don't promote knowledge in a way that is attractive or engaged.
 
 Therefore, it would be better that the prime audience is people between 40 to 60. Not only because they have high incidence of cancer ,but an educational background in understanding basic medical vocabularies.Then the method of our visualisation should include processes to consolidate information, where appropriate from a variety of sources, taking into account its sensitivity.
+
+Traditional paper engineering such as pop up cards and books ,they use the element of surprise to delight and amaze audiences at all age levels. Popup books could be printed quantitatively using cheap materials and so spread quickly through Europe and the United States. Pop-up books and other forms of paper engineering continue to amaze and delight both adults and children (Iizuka et al., 2011). What if we combine it with data comics for data visualisation? Can it consolidate the memory of information?  And there seems to be no previous case.
 ## Reference
 Salomon, R.M., 2008. Massachusetts General Hospital Comprehensive Clinical Psychiatry. Journal Of Clinical Psychiatry, 69(12), p.1988.
 
