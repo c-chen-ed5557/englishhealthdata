@@ -3,6 +3,7 @@
 
 ## Link to Video of Our Final Project
 [English Health Data](https://vimeo.com/377349942)
+
 ## process
 Main Findings:
 
@@ -17,7 +18,15 @@ From our interviews, people often get bored with medical vocabularies and data, 
 
 Therefore, it would be better that the prime audience is people between 40 to 60. Not only because they have high incidence of cancer ,but an educational background in understanding basic medical vocabularies.Then the method of our visualisation should include processes to consolidate information, where appropriate from a variety of sources, taking into account its sensitivity.
 
-Traditional paper engineering such as pop up cards and books ,they use the element of surprise to delight and amaze audiences at all age levels. Popup books could be printed quantitatively using cheap materials and so spread quickly through Europe and the United States. Pop-up books and other forms of paper engineering continue to amaze and delight both adults and children (Iizuka et al., 2011). What if we combine it with data comics for data visualisation? Can it consolidate the memory of information?  And there seems to be no previous case.
+## Why Data Comics + Paper Engineering
+Data Comics is a novel method for storytelling using sequential art, constructed from data-driven visualisations. Compared the method with slides in a qualitative study, Data Comics was found to be more engaging, efficient, and enjoyable for  participants who perceived it. And gaining great popularity, numerous people have experience and are familiar with comics, which means they have a common ground with this story-telling way. Therefore, Data Comics can also be used in visualising more "serious" statics data beyond entertainment (Zhao, Marr and Elmqvist, 2015).
+
+Our data is about tumours and cancers, and we expect to see our target audiences perceive this serious and somewhat bloodcurdling theme in a more relaxing and enjoyable way. Besides, conveying our positive take-home messages, Data Comics can greatly reduce audiences' horror of tumours and cancers.
+
+Traditional paper engineering such as pop up cards and books ,they use the element of surprise to delight and **amaze audiences at all age levels**. Popup books could be printed quantitatively using cheap materials and so spread quickly through Europe and the United States. Pop-up books and other forms of paper engineering continue to amaze and delight **both adults and children** (Iizuka et al., 2011). What if we combine it with data comics for data visualisation? Can it consolidate the memory of information?  And there seems to be no previous case.
+
+Going through many works and tutorials of Paper Engineering, we found some suitable mechanisms for presenting our line graphs, pie charts and bar charts, such as pull strips, turntables, verniers. Using these interactive mechanisms, messages supposed to be conveyed can be more impressive to our audiences.
+
 ## Reference
 Salomon, R.M., 2008. Massachusetts General Hospital Comprehensive Clinical Psychiatry. Journal Of Clinical Psychiatry, 69(12), p.1988.
 
